@@ -31,4 +31,4 @@ The tutorial is structured into four parts:
 
 ## Execute on Google Colab
 
-Click here to open the lab in Google colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/surrey-nlp/AMTA-EditDistances-tutorial/blob/main/code/AMTA_tutorial_ED.ipynb)
+Click here to open the code in Google colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/surrey-nlp/AMTA-EditDistances-tutorial/blob/main/code/AMTA_tutorial_ED.ipynb)
